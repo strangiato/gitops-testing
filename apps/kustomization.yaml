@@ -6,4 +6,4 @@ namespace: openshift-gitops
 resources:
   - app-of-apps.yaml
   - odh-app.yaml
-  - pipelines.app.yaml
+  - pipelines-app.yaml
