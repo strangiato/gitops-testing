@@ -9,7 +9,7 @@ spec:
     server: 'https://kubernetes.default.svc'
   source:
     path: apps
-    repoURL: patch-me-see-overlays-dir
+    repoURL: https://github.com/strangiato/gitops-testing.git
     targetRevision: master
   project: default
   syncPolicy:
